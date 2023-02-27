@@ -1,2 +1,2 @@
-# chatbot1
+# chatbot-react
 Created with CodeSandbox
